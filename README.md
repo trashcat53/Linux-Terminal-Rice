@@ -1,3 +1,5 @@
+ᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢ
+
 zsh file ➤➤ .zshrc
 - full path ➤➤ ~/.zshrc
   
@@ -9,3 +11,5 @@ ghosty config ➤➤ config.ghostty
   
 fastfetch config ➤➤ config.jsonc
 - full path ➤➤ ~/.config/fastfetch/config.jsonc
+
+ᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢ
